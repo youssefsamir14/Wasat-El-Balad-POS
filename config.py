@@ -1,0 +1,5 @@
+APP_NAME = "ليالي وسط البلد POS"
+APP_VERSION = "1.3.0"
+WINDOW_WIDTH = 1366
+WINDOW_HEIGHT = 768
+CURRENCY = "جنيه"

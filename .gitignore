@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+*.exe
+*.dll
+*.pyd
+
+# Local application data and databases
+*.db
+*.sqlite
+*.sqlite3
+*-wal
+*-shm
+backups/
+
+# Local settings, secrets and logs
+.env
+.env.*
+!.env.example
+*.log
+initial_admin_credentials.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
